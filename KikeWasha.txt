@@ -1,0 +1,8 @@
+Soy Enrique Solís y me gusta jugar videojuegos.
+
+//git unit      crea un repertorio 
+//git status    Sirve para saber el status del repertorio
+//git add arc.c Es para subir un archivo al repertorio
+//git commit -m "Detallles que se cambio"  ya se sube por completo al repertorio 
+//git log       Sirve para saber historial del archivo
+// git reset hash    Sirve para retornar a una versión anterior del archivo
